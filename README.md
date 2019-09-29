@@ -15,4 +15,8 @@ git clone git@github.com:Tiger-Yan/zhihu_zhuanlan_production_time.git
 ![成功后](./img.png)
 撒花~~~
 
+# 使用效果
+
+![效果预览](./view.png)
+
 ## enjoy
